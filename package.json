@@ -1,7 +1,6 @@
 {
   "name": "ionic-starter-app",
   "version": "0.0.1",
-  "main": "src/js/app.js",
   "description": "A base ionic project with karma and protractor tests and a gulp build system",
   "engines": {
     "node": "<=4"
